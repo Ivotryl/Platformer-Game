@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SilverCoin_Static_OC
+  m_Controller: {fileID: 9100000, guid: 83ce007cb7063664f8288d2fe7041067, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 05cfce485ae5bdc46947889fe6afa5f2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3f7a66e62cdceb045a274d26cf970a07, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d9e9dcdb6597d264d9933cbba24d20f3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4ea32b72a5797214f9e1a1147fd1f784, type: 2}

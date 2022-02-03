@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 85f0e72bbe4dd414485b4d9deba3c7b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - foodInventory: {fileID: 11400000, guid: 05facafd6d321e944a3f798c1619f074, type: 2}
+  - coinInventory: {fileID: 11400000, guid: 83867d0f494e4204ea422fbc9786e3b8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
