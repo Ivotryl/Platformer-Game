@@ -1,2 +1,2 @@
 # Platformer-Game
-Prototype platformer base mechanics.
+Prototype platformer´s base mechanics, including a simplistic inventory system.
